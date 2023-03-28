@@ -1,0 +1,21 @@
+.contenedor_principal{
+    width: auto;
+    height: 2000px;
+    border: 1px solid red;
+    background-color: orangered;
+}
+
+
+.contenedor_slider{
+    margin:auto;
+    width: 70%;
+    height: 2000px;
+    border: 1px solid green;
+    background-color: white;
+}
+.contenedor-menu{
+    margin: auto;
+    width: auto;
+    height: 200px;
+    border: 1px solid pink;
+}
